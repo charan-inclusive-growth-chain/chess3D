@@ -1,6 +1,6 @@
 # chess3D
 
-npm install
+npm install -y
 
 npm run start
 
